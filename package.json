@@ -4,6 +4,7 @@
   "version": "1.7.6",
   "dependencies": {
     "httpreq": ">=0.4.22",
+    "js-md4": "^0.3.2",
     "underscore": "~1.7.0"
   },
   "author": {
